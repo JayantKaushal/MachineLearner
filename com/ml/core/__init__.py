@@ -1,1 +1,1 @@
-def d
+print "Hello Python"
